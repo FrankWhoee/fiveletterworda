@@ -1,3 +1,5 @@
+// This currently only finds one set of 5 distinct letters. Still figuring out how to use this algorithm to find all sets...
+
 package main
 
 import (
